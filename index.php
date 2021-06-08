@@ -1,0 +1,1 @@
+<?php header('Location: globe_bank/public/index.php'); ?>
